@@ -1,0 +1,14 @@
+{
+  "repos": {
+    "sample-air-quality": ["教程"]
+  },
+  "custom": [
+    {
+      "name": "flowchain",
+      "homepage": "https://github.com/flowchain/flowchain",
+      "html_url": "https://github.com/flowchain/flowchain",
+      "description": "Flow-Based Programming for IoT based on Devify.",
+      "categories": ["社区项目"]
+    }
+  ]
+}
