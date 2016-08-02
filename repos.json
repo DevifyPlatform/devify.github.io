@@ -5,7 +5,7 @@
   "custom": [
     {
       "name": "flowchain",
-      "homepage": "https://github.com/flowchain/flowchain",
+      "homepage": "http://flowchain.io",
       "html_url": "https://github.com/flowchain/flowchain",
       "description": "Flow-Based Programming for IoT based on Devify.",
       "categories": ["社区项目"]
